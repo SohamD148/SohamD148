@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Soham Deshpande!
 
 ## 💻 About Me
-I am a Results-oriented Data Analyst and Business Analyst with 7 years of IT experience. I specialize in data wrangling, Agile project management, EDA, A/B testing, process optimization, and statistical modeling to deliver actionable insights and improve operational efficiency. I have a strong track record in optimizing workflows, building ETL pipelines, and driving successful SDLC project implementations.
+I am a Results-oriented Business Data Analyst with 2+ years of professional experience in the Consulting & Data domain. I specialize in agile project management, data wrangling, EDA, A/B testing, process optimization, and statistical modeling to deliver actionable insights and improve operational efficiency. I have a strong track record in optimizing workflows, building ETL pipelines, and driving successful SDLC project implementations.
 
 ## 🔧 Technologies & Tools
 - 💻 **Languages**: Python, R, SQL (MySQL, PostgreSQL, Oracle)
