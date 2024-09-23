@@ -14,3 +14,8 @@ I am a Results-oriented Business Data Analyst with 2+ years of professional expe
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-d148)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/soham.ramesh.deshpande/vizzes)
+
+## 📜 Certifications:
+
+[![Scrum.org](https://img.shields.io/badge/Professional_Scrum_Master_I-0075CA?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/user/1104005)
+[![Bloomberg Market Concepts](https://img.shields.io/badge/Bloomberg_Market_Concepts-0071C5?style=for-the-badge&logo=bloomberg&logoColor=white)](https://portal.bloombergforeducation.com/certificates/jjcAfy
