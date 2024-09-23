@@ -17,5 +17,8 @@ I am a Results-oriented Business Data Analyst with 2+ years of professional expe
 
 ## 📜 Certifications:
 
-[![Scrum.org](https://img.shields.io/badge/Professional_Scrum_Master_I-0075CA?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/user/1104005)
-[![Bloomberg Market Concepts](https://img.shields.io/badge/Bloomberg_Market_Concepts-0071C5?style=for-the-badge&logo=bloomberg&logoColor=white)](https://portal.bloombergforeducation.com/certificates/jjcAfy
+- 🧑‍💻 **Professional Scrum Master I** – Scrum.org  
+  [Link to Certification](https://www.scrum.org/user/1104005)
+
+- 💼 **Bloomberg Market Concepts** – Bloomberg  
+  [Link to Certification](https://portal.bloombergforeducation.com/certificates/jjcAfy47rgJ39U6zw1KMVGbS)
